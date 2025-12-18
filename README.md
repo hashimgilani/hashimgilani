@@ -1,16 +1,11 @@
-# 👋 Hi, I'm Syed Hashim Ali Gilani
-
-### **Business Analytics Graduate Student | Data Analyst | SQL • Python • Power BI • Tableau | Machine Learning & Cloud (AWS)**  
-📍 Sacramento, California  
-📧 hashimgilani331@gmail.com  
-🌐 Portfolio: https://hashimgilani.github.io  
+# 👋 Hi, I'm Hashim
 
 ---
 
 ## 🧑‍💼 **About Me**
-I am a Business Analytics graduate student with hands-on experience in data analysis, dashboard development, IT operations, and project coordination. My background combines analytical skills with leadership experience gained through IT support, technical reporting, and managing cross-functional projects.
+I am a Business Analytics graduate student with hands on experience in data analysis, dashboard development, IT operations, and project coordination. My background combines analytical skills with leadership experience gained through IT support, technical reporting, and managing cross functional projects.
 
-In my current role as a Senior IT Assistant at Sacramento State, I lead junior staff, streamline workflows, and build Power BI dashboards that support operational and strategic decision-making. My project work includes analytics dashboards, SQL systems, machine learning models, NLP, and cloud-based (AWS) implementations.
+In my current role as a Senior IT Assistant at Sacramento State, I lead junior staff, streamline workflows, and build Power BI dashboards that support operational and strategic decision-making. My project work includes analytics dashboards, SQL systems, Data modelling and ETL pipelines. 
 
 I am passionate about solving problems with data, optimizing processes, and delivering insights that drive business outcomes.
 
@@ -24,9 +19,9 @@ I am passionate about solving problems with data, optimizing processes, and deli
 - **SQL:** PostgreSQL, MySQL, ETL Pipelines, Data Warehousing, Star Schema  
 
 ### **Tools**
-- **BI & Visualization:** Power BI, Tableau, Looker Studio  
+- **BI & Visualization:** Power BI, Tableau, Looker Studio, Google Analytics, Microsoft Clarity
 - **Cloud:** AWS (S3, Redshift, SageMaker, Rekognition)  
-- **Other:** Excel, Power Apps, Power Automate, Dataverse, SharePoint, Salesforce  
+- **Other:** Microsoft Office, Asana, Excel, Power Apps, Power Automate, Dataverse, SharePoint, Salesforce  
 
 ---
 
